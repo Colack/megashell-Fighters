@@ -1,0 +1,45 @@
+{
+    "name": "Jotaro Kujo",
+    "health": 75,
+    "attack": 20,
+    "defense": 25,
+    "quote": "Yara Yara Daze...",
+    "attackQuotes": [
+        "ORA!",
+        "ORA ORA ORA ORA!",
+        "Yara Yara Daze...",
+        "Star Platinum!"
+    ],
+    "defenseQuotes": [
+        "You think that will hit me...?",
+        "Yara Yara, Give me a break...",
+        "You're not strong enough.",
+        "..."
+    ],
+    "attacks": [
+        {
+            "name": "SP: Punch!",
+            "damage": 20,
+            "accuracy": 0.8,
+            "critical": 0.1
+        },
+        {
+            "name": "SP: Star Finger!",
+            "damage": 30,
+            "accuracy": 0.8,
+            "critical": 0.1
+        },
+        {
+            "name": "SP: Stand Barrage!",
+            "damage": 40,
+            "accuracy": 0.9,
+            "critical": 0.1
+        },
+        {
+            "name": "SP: Ora Ora Ora Ora!",
+            "damage": 50,
+            "accuracy": 0.5,
+            "critical": 0.1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "megaShell",
+    "health": 100,
+    "attack": 10,
+    "defense": 10,
+    "quote": "I am the megaShell!",
+    "attackQuotes": [
+        "I am the megaShell!",
+        "Time to deal some serious damage!",
+        "Take That!",
+        "I'm going to destroy you!"
+    ],
+    "defenseQuotes": [
+        "Uh oh!",
+        "You think that will work?",
+        "You're not going to get away with that!",
+        "Dodge!"
+    ],
+    "attacks": [
+        {
+            "name": "Slam",
+            "damage": 10,
+            "accuracy": 0.8,
+            "critical": 0.1
+        },
+        {
+            "name": "Punch",
+            "damage": 5,
+            "accuracy": 0.9,
+            "critical": 0.1
+        },
+        {
+            "name": "megaPunch",
+            "damage": 20,
+            "accuracy": 0.5,
+            "critical": 0.1
+        },
+        {
+            "name": "Kick",
+            "damage": 10,
+            "accuracy": 0.9,
+            "critical": 0.1
+        }
+    ]
+}
